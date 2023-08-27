@@ -1,0 +1,8 @@
+learing  devops
+using GIT
+
+On your local system 
+change to your work direcotry/repository
+init the repository
+add/stage the file
+commit
